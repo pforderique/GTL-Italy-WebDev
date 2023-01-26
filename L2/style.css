@@ -1,0 +1,41 @@
+.flexxx {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.rounded {
+    border-radius: 50px;
+}
+
+.welcome {
+    color: darksalmon;
+    font-family: cursive;
+}
+
+.bighead {
+    font-family: monospace;
+    background-color: cadetblue;
+    width: fit-content;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+
+    border-radius: 10px;
+}
+
+.center-me {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: darkblue;
+    color: white;
+}
+
+li {
+    color:aquamarine;
+}
+

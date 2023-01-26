@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman&family=Source+Code+Pro:ital@1&display=swap');
+
+body {
+    background-color: navy;
+    color: whitesmoke;
+    padding: 1rem;
+}
+
+h2 {
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 6px 10px;
+    color: black
+}
+
+.u-center {
+    text-align: center;
+}
+
+a {
+    color: aqua;
+}
+
+a:hover {
+    color: rgb(0, 104, 70);
+}
+
+img {
+    border-radius: 20px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.navContainer {
+    background-color: cornsilk;
+}
+
+.navTitle {
+    color: bisque;
+}
